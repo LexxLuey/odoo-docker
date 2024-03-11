@@ -26,13 +26,10 @@ This project is ready to run locally
 
 Local Build, Migrate and Run
 
-To build the application go to project root and run:
-
-    $ docker-compose build
-
-To run built application go to project root and run:
+To build and run the application go to project root and run:
 
     $ docker-compose up
+
 
 To open running application just open [localhost](http://localhost:8069)
 
