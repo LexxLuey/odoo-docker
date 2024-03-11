@@ -34,3 +34,5 @@ To build and run the application go to project root and run:
 To open running application just open [localhost](http://localhost:8069)
 
 Use username **odoo** and password **password**
+
+When Odoo launches, install the e-commerce and custom product apps to see the solution created.
